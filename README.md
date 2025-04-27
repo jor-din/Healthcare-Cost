@@ -1,10 +1,8 @@
 # 🏥 Healthcare Cost Analysis
-Medical insurance costs are rising rapidly.  We need to understand what personal factors (like smoking, age, BMI) are causing higher charges.  Our goal is to design better insurance premiums and wellness programs to control future medical costs.
+Medical insurance costs are increasing quickly. To manage these costs, it’s important to understand how personal factors like smoking, age, and BMI affect charges. This project analyzes how these factors, along with region, impact medical insurance costs.
+Using SQL for data analysis and Tableau for visualization, I identified key trends that can help design better insurance premiums and wellness programs.
 
-This project analyzes how personal factors such as age, BMI, smoking habits, and region impact individual medical insurance costs.
-Using SQL for data exploration and Tableau for visualization, I uncovered key trends and patterns that influence healthcare expenses.
-
-## 🛠️ Tool
+## 🛠️ Tools
 - MySQL (data storage, querying, analysis)
 
 - Tableau (dashboard development and visualization)
