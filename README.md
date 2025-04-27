@@ -9,7 +9,7 @@ Using SQL for data exploration and Tableau for visualization, I uncovered key tr
 
 - Tableau (dashboard development and visualization)
 
-- Kaggle Medical Cost Personal Dataset
+- Kaggle Medical Cost Personal Dataset ([Link](https://www.kaggle.com/datasets/prasad22/healthcare-dataset))
 
 ## Dataset Description
 The dataset includes 1,300+ entries with the following fields:
